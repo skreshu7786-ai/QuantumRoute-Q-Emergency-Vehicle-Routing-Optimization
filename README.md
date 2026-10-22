@@ -1,0 +1,2 @@
+# QuantumRoute-Q-Emergency-Vehicle-Routing-Optimization
+QuantumRoute-Q is a hybrid quantum-classical optimization project for emergency vehicle routing and traffic signal coordination. It aims to identify efficient routes by considering distance, traffic congestion, and signal delays using Python, QUBO, and QAOA. Contributed to frontend development, backend logic, and route optimization workflows.
